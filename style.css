@@ -23,60 +23,7 @@ html {
     
 
    
-    /* INFO */
-    .info {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin-top: 50px;
-        width: 100%;
-    }
-    /* INFO LIST */
-    .info_list {
-        display: flex;
-        flex-direction: row;
-        list-style: none;
-        flex-wrap: wrap;
-        align-items: center;
-        justify-content: center;
-        margin-right: 40px;
-    }
-    .info_list li {
-        margin-bottom: 30px;
-        text-align: center;
-    }
-    .info_heading {
-        font-size: 14px;
-        font-family: "Roboto";
-        font-weight: 700px;
-        margin-bottom: 10px;
-        text-transform: uppercase;
-        text-align: center;
-        margin-right: 20px;
-    }
-    /* INFO TEXT */
-    .info_text {
-        color: #757575;
-        font-family: "Roboto";
-        line-height: 24px;
-        text-align: center;
-        margin-right: 40px;
-    }
-
-    /* INFO BACKGRROUND */
-    .svg_bg {
-        background-color: #F5F4FA;
-        border-radius: 4px;
-        margin-bottom: 30px;
-        padding: 20px 130px;
-    }
-    .icon-antenna-1,
-    .icon-astronaut-1,
-    .icon-clock-1,
-    .icon-diagram-1 {
-        font-size: 60px;
-    }
-
+    
     .what_we_do {
         display: none;
     }
@@ -610,25 +557,6 @@ html {
 
     .background-button {
         padding: 18px 24px;
-    }
-    .info{
-        margin: 0;
-        padding: 0;
-    }
-    .info_list{
-        width: 740px;
-        margin-left: 60px;
-        margin-top: 60px;
-    }
-    .info_list li{
-        margin-right: 15px;
-    }
-    .info_heading{
-        text-align: justify;
-    }
-    .info_text{
-        width: 300px;
-        text-align: justify;
     }
 
     .our_team_list{
